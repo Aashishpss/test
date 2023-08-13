@@ -1,2 +1,2 @@
-print("my first code")# test
-print("Hello india")regarding code
+print("my first code")
+print("Hello india")
